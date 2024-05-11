@@ -13,5 +13,3 @@ server_scripts{
     'config.lua',
     'server/server.lua',
 } 
-
-escrow_ignore 'config.lua'
