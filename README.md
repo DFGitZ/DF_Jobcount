@@ -1,0 +1,1 @@
+A completely free script, where after making a command (defined in config.lua), a notification appears showing whether there is X job online or not, with the possibility of displaying the exact number of players in that job or not (defined in config.lua).
